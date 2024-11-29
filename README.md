@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basicbnb
 - 👀 I’m interested in new tech
-- and cryptos
+- and cryptos trading.
 
 <!---
 basicbnb/basicbnb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
